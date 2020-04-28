@@ -1,1 +1,2 @@
 num = zhangsan
+ nnn = mangager
